@@ -5,3 +5,4 @@ target/
 .nrepl-port
 readitsenpai.iml
 .idea
+resources/
