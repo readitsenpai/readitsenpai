@@ -1,3 +1,7 @@
 target/
 .lein-repl-history
 **/*.swp
+.DS_Store
+.nrepl-port
+readitsenpai.iml
+.idea
